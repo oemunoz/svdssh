@@ -1,0 +1,6 @@
+# User and group
+SVDUSER=myuser
+SVDGROUP=mygroup
+
+# If you setup this var to any, the sshd gonna to use the default key, this may be unsecure.
+#DEFKEY="any"
